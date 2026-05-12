@@ -74,20 +74,6 @@ If you find this useful:
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
-
----
-
-## 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -111,28 +97,4 @@ If you want, next I can:
 - Add **real DevOps examples inside each day**
 
 Just tell 👍
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
