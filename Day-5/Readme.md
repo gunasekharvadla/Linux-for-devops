@@ -2,7 +2,7 @@
 
 <img src="https://img.icons8.com/color/96/linux--v1.png" width="80"/>
 
-# 👁️ Day 03 — File Viewing Commands
+# 👁️ Day 05 — File Viewing Commands
 
 [![Day](https://img.shields.io/badge/Day-03-0078D4?style=for-the-badge&logo=linux&logoColor=white)](.)
 [![Linux](https://img.shields.io/badge/Linux-Commands-FCC624?style=for-the-badge&logo=linux&logoColor=black)](.)
