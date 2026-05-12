@@ -4,7 +4,7 @@
 
 # 👁️ Day 05 — File Viewing Commands
 
-[![Day](https://img.shields.io/badge/Day-03-0078D4?style=for-the-badge&logo=linux&logoColor=white)](.)
+[![Day](https://img.shields.io/badge/Day-05-0078D4?style=for-the-badge&logo=linux&logoColor=white)](.)
 [![Linux](https://img.shields.io/badge/Linux-Commands-FCC624?style=for-the-badge&logo=linux&logoColor=black)](.)
 [![DevOps](https://img.shields.io/badge/DevOps-Beginner-success?style=for-the-badge&logo=jenkins&logoColor=white)](.)
 [![Topic](https://img.shields.io/badge/Topic-File%20Viewing-blueviolet?style=for-the-badge)](.)
